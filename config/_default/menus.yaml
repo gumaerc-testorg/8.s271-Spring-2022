@@ -1,5 +1,5 @@
 leftnav:
-- identifier: external-1558243175-1656446865857
+- identifier: a60f83f3-d234-45c4-9cc9-4fdc8ce91351
   name: Course Website
-  url: https://nuclearweaponsedproj.mit.edu/Node/135
+  pageRef: /external-resources/course-website_a60f83f3-d234-45c4-9cc9-4fdc8ce91351
   weight: 10
